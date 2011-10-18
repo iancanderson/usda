@@ -31,6 +31,4 @@ module Usda
       puts "Error unzipping the data files. Do you have the command-line utility 'unzip' installed?"
     end
   end
-
-  Downloader.new.run
 end
