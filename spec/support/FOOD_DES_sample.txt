@@ -1,0 +1,100 @@
+~01001~^~0100~^~Butter, salted~^~BUTTER,WITH SALT~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01002~^~0100~^~Butter, whipped, with salt~^~BUTTER,WHIPPED,WITH SALT~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01003~^~0100~^~Butter oil, anhydrous~^~BUTTER OIL,ANHYDROUS~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01004~^~0100~^~Cheese, blue~^~CHEESE,BLUE~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01005~^~0100~^~Cheese, brick~^~CHEESE,BRICK~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01006~^~0100~^~Cheese, brie~^~CHEESE,BRIE~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01007~^~0100~^~Cheese, camembert~^~CHEESE,CAMEMBERT~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01008~^~0100~^~Cheese, caraway~^~CHEESE,CARAWAY~^~~^~~^~~^~~^0^~~^6.38^4.27^8.79^3.87
+~01009~^~0100~^~Cheese, cheddar~^~CHEESE,CHEDDAR~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01010~^~0100~^~Cheese, cheshire~^~CHEESE,CHESHIRE~^~~^~~^~~^~~^0^~~^6.38^4.27^8.79^3.87
+~01011~^~0100~^~Cheese, colby~^~CHEESE,COLBY~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01012~^~0100~^~Cheese, cottage, creamed, large or small curd~^~CHEESE,COTTAGE,CRMD,LRG OR SML CURD~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01013~^~0100~^~Cheese, cottage, creamed, with fruit~^~CHEESE,COTTAGE,CRMD,W/FRUIT~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01014~^~0100~^~Cheese, cottage, nonfat, uncreamed, dry, large or small curd~^~CHEESE,COTTAGE,NONFAT,UNCRMD,DRY,LRG OR SML CURD~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01015~^~0100~^~Cheese, cottage, lowfat, 2% milkfat~^~CHEESE,COTTAGE,LOWFAT,2% MILKFAT~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01016~^~0100~^~Cheese, cottage, lowfat, 1% milkfat~^~CHEESE,COTTAGE,LOWFAT,1% MILKFAT~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01017~^~0100~^~Cheese, cream~^~CHEESE,CREAM~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01018~^~0100~^~Cheese, edam~^~CHEESE,EDAM~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01019~^~0100~^~Cheese, feta~^~CHEESE,FETA~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01020~^~0100~^~Cheese, fontina~^~CHEESE,FONTINA~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01021~^~0100~^~Cheese, gjetost~^~CHEESE,GJETOST~^~~^~~^~~^~~^0^~~^6.38^4.27^8.79^3.87
+~01022~^~0100~^~Cheese, gouda~^~CHEESE,GOUDA~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01023~^~0100~^~Cheese, gruyere~^~CHEESE,GRUYERE~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01024~^~0100~^~Cheese, limburger~^~CHEESE,LIMBURGER~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01025~^~0100~^~Cheese, monterey~^~CHEESE,MONTEREY~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01026~^~0100~^~Cheese, mozzarella, whole milk~^~CHEESE,MOZZARELLA,WHL MILK~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01027~^~0100~^~Cheese, mozzarella, whole milk, low moisture~^~CHEESE,MOZZARELLA,WHL MILK,LO MOIST~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01028~^~0100~^~Cheese, mozzarella, part skim milk~^~CHEESE,MOZZARELLA,PART SKIM MILK~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01029~^~0100~^~Cheese, mozzarella, part skim milk, low moisture~^~CHEESE,MOZZARELLA,PART SKIM MILK,LO MOIST~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01030~^~0100~^~Cheese, muenster~^~CHEESE,MUENSTER~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01031~^~0100~^~Cheese, neufchatel~^~CHEESE,NEUFCHATEL~^~~^~~^~~^~~^0^~~^6.38^4.27^8.79^3.87
+~01032~^~0100~^~Cheese, parmesan, grated~^~CHEESE,PARMESAN,GRATED~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01033~^~0100~^~Cheese, parmesan, hard~^~CHEESE,PARMESAN,HARD~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01034~^~0100~^~Cheese, port de salut~^~CHEESE,PORT DE SALUT~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01035~^~0100~^~Cheese, provolone~^~CHEESE,PROVOLONE~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01036~^~0100~^~Cheese, ricotta, whole milk~^~CHEESE,RICOTTA,WHOLE MILK~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01037~^~0100~^~Cheese, ricotta, part skim milk~^~CHEESE,RICOTTA,PART SKIM MILK~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01038~^~0100~^~Cheese, romano~^~CHEESE,ROMANO~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01039~^~0100~^~Cheese, roquefort~^~CHEESE,ROQUEFORT~^~~^~~^~~^~~^0^~~^6.38^4.27^8.79^3.87
+~01040~^~0100~^~Cheese, swiss~^~CHEESE,SWISS~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01041~^~0100~^~Cheese, tilsit~^~CHEESE,TILSIT~^~~^~~^~~^~~^0^~~^6.38^4.27^8.79^3.87
+~01042~^~0100~^~Cheese, pasteurized process, American, fortified with vitamin D~^~CHEESE,PAST PROCESS,AMERICAN,FORT W/ VITAMIN D~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01043~^~0100~^~Cheese, pasteurized process, pimento~^~CHEESE,PAST PROCESS,PIMENTO~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01044~^~0100~^~Cheese, pasteurized process, swiss~^~CHEESE,PAST PROCESS,SWISS~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01045~^~0100~^~Cheese food, cold pack, american~^~CHEESE FD,COLD PK,AMERICAN~^~~^~~^~~^~~^0^~~^6.38^4.27^8.79^3.87
+~01046~^~0100~^~Cheese food, pasteurized process, American, vitamin D fortified~^~CHEESE FD,PAST PROCESS,AMERICAN,VITAMIN D FORT~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01047~^~0100~^~Cheese food, pasteurized process, swiss~^~CHEESE FD,PAST PROCESS,SWISS~^~~^~~^~~^~~^0^~~^6.38^4.27^8.79^3.87
+~01048~^~0100~^~Cheese spread, pasteurized process, American~^~CHEESE SPRD,PAST PROCESS,AMERICAN~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01049~^~0100~^~Cream, fluid, half and half~^~CREAM,FLUID,HALF AND HALF~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01050~^~0100~^~Cream, fluid, light (coffee cream or table cream)~^~CREAM,FLUID,LT (COFFEE CRM OR TABLE CRM)~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01052~^~0100~^~Cream, fluid, light whipping~^~CREAM,FLUID,LT WHIPPING~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01053~^~0100~^~Cream, fluid, heavy whipping~^~CREAM,FLUID,HVY WHIPPING~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01054~^~0100~^~Cream, whipped, cream topping, pressurized~^~CREAM,WHIPPED,CRM TOPPING,PRESSURIZED~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01055~^~0100~^~Cream, sour, reduced fat, cultured~^~CREAM,SOUR,RED FAT,CULTURED~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01056~^~0100~^~Cream, sour, cultured~^~CREAM,SOUR,CULTURED~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01057~^~0100~^~Eggnog~^~EGGNOG~^~~^~~^~Y~^~~^0^~~^6.37^4.27^8.79^3.90
+~01058~^~0100~^~Sour dressing, non-butterfat, cultured, filled cream-type~^~SOUR DRSNG,NON-BUTTERFAT,CULTURED,FILLED CREAM-TYPE~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01059~^~0100~^~Milk, filled, fluid, with blend of hydrogenated vegetable oils~^~MILK,FILLED,FLUID,W/BLEND OF HYDR VEG OILS~^~~^~~^~~^~~^0^~~^6.38^4.27^8.79^3.87
+~01060~^~0100~^~Milk, filled, fluid, with lauric acid oil~^~MILK,FILLED,FLUID,W/LAURIC ACID OIL~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01067~^~0100~^~Cream substitute, liquid, with hydrogenated vegetable oil and soy protein~^~CREAM SUB,LIQ,W/HYDR VEG OIL&SOY PROT~^~~^~~^~Y~^~~^0^~~^5.71^4.27^8.79^3.87
+~01068~^~0100~^~Cream substitute, liquid, with lauric acid oil and sodium caseinate~^~CREAM SUB,LIQ,W/LAURIC ACID OIL&NA CASEINATE~^~~^~~^~~^~~^0^~~^6.29^4.27^8.79^3.87
+~01069~^~0100~^~Cream substitute, powdered~^~CREAM SUBSTITUTE,POWDERED~^~~^~~^~Y~^~~^0^~~^6.29^4.27^8.79^3.87
+~01070~^~0100~^~Dessert topping, powdered~^~DESSERT TOPPING,POWDERED~^~~^~~^~~^~~^0^~~^6.29^4.27^8.79^3.87
+~01071~^~0100~^~Dessert topping, powdered, 1.5 ounce prepared with 1/2 cup milk~^~DESSERT TOPPING,PDR,1.5 OZ PREP W/1/2 CUP MILK~^~~^~~^~Y~^~~^0^~~^6.35^4.27^8.79^3.87
+~01072~^~0100~^~Dessert topping, pressurized~^~DESSERT TOPPING,PRESSURIZED~^~~^~~^~Y~^~~^0^~~^6.29^4.27^8.79^3.87
+~01073~^~0100~^~Dessert topping, semi solid, frozen~^~DESSERT TOPPING,SEMI SOLID,FRZ~^~~^~~^~Y~^~~^0^~~^6.29^4.27^8.84^3.87
+~01074~^~0100~^~Sour cream, imitation, cultured~^~SOUR CRM,IMITN,CULTURED~^~~^~~^~Y~^~~^0^~~^6.29^4.27^8.79^3.87
+~01076~^~0100~^~Milk substitutes, fluid, with lauric acid oil~^~MILK SUBSTITUTES,FLUID,W/LAURIC ACID OIL~^~~^~~^~~^~~^0^~~^6.29^4.27^8.79^3.87
+~01077~^~0100~^~Milk, whole, 3.25% milkfat, with added vitamin D~^~MILK,WHL,3.25% MILKFAT,W/ ADDED VITAMIN D~^~~^~~^~Y~^~~^0^~~^^^^
+~01078~^~0100~^~Milk, producer, fluid, 3.7% milkfat~^~MILK,PRODUCER,FLUID,3.7% MILKFAT~^~~^~~^~~^~~^0^~~^6.38^4.27^8.79^3.87
+~01079~^~0100~^~Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D~^~MILK,RED FAT,FLUID,2% MILKFAT,W/ ADDED VIT A & VITAMIN D~^~~^~~^~Y~^~~^0^~~^^^^
+~01080~^~0100~^~Milk, reduced fat, fluid, 2% milkfat, with added nonfat milk solids and vitamin A and vitamin D~^~MILK,RED FAT,FLUID,2% MILKFAT,W/ ADDED NFMS, VIT A & VIT D~^~~^~~^~~^~~^0^~~^6.38^4.27^8.79^3.87
+~01081~^~0100~^~Milk, reduced fat, fluid, 2% milkfat, protein fortified, with added vitamin A and vitamin D~^~MILK,RED FAT,FLUID,2% MILKFAT,PROT FORT,W/ ADDED VIT A & D~^~~^~~^~~^~~^0^~~^6.38^4.27^8.79^3.87
+~01082~^~0100~^~Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D~^~MILK,LOWFAT,FLUID,1% MILKFAT,W/ ADDED VIT A & VITAMIN D~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01083~^~0100~^~Milk, lowfat, fluid, 1% milkfat, with added nonfat milk solids, vitamin A and vitamin D~^~MILK,LOWFAT,FLUID,1% MILKFAT,W/ ADD NONFAT MILK SOL,VIT A/ D~^~~^~~^~~^~~^0^~~^6.38^4.27^8.79^3.87
+~01084~^~0100~^~Milk, lowfat, fluid, 1% milkfat, protein fortified, with added vitamin A and vitamin D~^~MILK,LOWFAT,FLUID,1% MILKFAT,PROT FORT,W/ ADDED VIT A & D~^~~^~~^~~^~~^0^~~^6.38^4.27^8.79^3.87
+~01085~^~0100~^~Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)~^~MILK,NONFAT,FLUID,W/ ADDED VIT A & VIT D (FAT FREE OR SKIM)~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01086~^~0100~^~Milk, nonfat, fluid, with added nonfat milk solids, vitamin A and vitamin D (fat free or skim)~^~MILK,NONFAT,FLUID,W/ ADDED NONFAT MILK SOL,VIT A & VIT D~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01087~^~0100~^~Milk, nonfat, fluid, protein fortified, with added vitamin A and vitamin D (fat free and skim)~^~MILK,NONFAT,FLUID,PROT FORT,W/ ADD VIT A & D (FAT FREE/SKIM)~^~~^~~^~~^~~^0^~~^6.38^4.27^8.79^3.87
+~01088~^~0100~^~Milk, buttermilk, fluid, cultured, lowfat~^~MILK,BTTRMLK,FLUID,CULTURED,LOWFAT~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01089~^~0100~^~Milk, low sodium, fluid~^~MILK,LO NA,FLUID~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01090~^~0100~^~Milk, dry, whole, with added vitamin D~^~MILK,DRY,WHL,W/ ADDED VITAMIN D~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01091~^~0100~^~Milk, dry, nonfat, regular, without added vitamin A and vitamin D~^~MILK,DRY,NONFAT,REG,WO/ ADDED VIT A & VITAMIN D~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01092~^~0100~^~Milk, dry, nonfat, instant, with added vitamin A and vitamin D~^~MILK,DRY,NONFAT,INST,W/ ADDED VIT A & VITAMIN D~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01093~^~0100~^~Milk, dry, nonfat, calcium reduced~^~MILK,DRY,NONFAT,CA RED~^~~^~~^~~^~~^0^~~^6.38^4.27^8.79^3.87
+~01094~^~0100~^~Milk, buttermilk, dried~^~MILK,BUTTERMILK,DRIED~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01095~^~0100~^~Milk, canned, condensed, sweetened~^~MILK,CND,COND,SWTND~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01096~^~0100~^~Milk, canned, evaporated, with added vitamin D and without added vitamin A~^~MILK,CND,EVAP,W/ ADDED VITAMIN D & WO/ ADDED VIT A~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01097~^~0100~^~Milk, canned, evaporated, nonfat, with added vitamin A and vitamin D~^~MILK,CND,EVAP,NONFAT,W/ ADDED VIT A & VITAMIN D~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01102~^~0100~^~Milk, chocolate, fluid, commercial, whole, with added vitamin A and vitamin D~^~MILK,CHOC,FLUID,COMM,WHL,W/ ADDED VIT A & VITAMIN D~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01103~^~0100~^~Milk, chocolate, fluid, commercial, reduced fat, with added vitamin A and vitamin D~^~MILK,CHOC,FLUID,COMM,RED FAT~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01104~^~0100~^~Milk, chocolate, fluid, commercial, lowfat, with added vitamin A and vitamin D~^~MILK,CHOC,FLUID,COMM,LOWFAT,W/ ADDED VIT A & VITAMIN D~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01105~^~0100~^~Milk, chocolate beverage, hot cocoa, homemade~^~MILK,CHOC BEV,HOT COCOA,HOMEMADE~^~~^~~^~~^~~^0^~~^^^^
+~01106~^~0100~^~Milk, goat, fluid, with added vitamin D~^~MILK,GOAT,FLUID,W/ ADDED VITAMIN D~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01107~^~0100~^~Milk, human, mature, fluid~^~MILK,HUMAN,MATURE,FLUID~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
+~01108~^~0100~^~Milk, indian buffalo, fluid~^~MILK,INDIAN BUFFALO,FLUID~^~~^~~^~~^~~^0^~~^6.38^4.27^8.79^3.87
+~01109~^~0100~^~Milk, sheep, fluid~^~MILK,SHEEP,FLUID~^~~^~~^~~^~~^0^~~^6.38^4.27^8.79^3.87
+~01110~^~0100~^~Milk shakes, thick chocolate~^~MILK SHAKES,THICK CHOC~^~~^~~^~~^~~^0^~~^6.38^4.27^8.79^3.87
+~01111~^~0100~^~Milk shakes, thick vanilla~^~MILK SHAKES,THICK VANILLA~^~~^~~^~~^~~^0^~~^6.38^4.27^8.79^3.87
+~01112~^~0100~^~Whey, acid, fluid~^~WHEY,ACID,FLUID~^~~^~~^~~^~~^0^~~^6.38^4.27^8.79^3.87

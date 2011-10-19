@@ -3,26 +3,32 @@ require 'set'
 
 module Usda
   class ImportParser
-    def initialize
-      # test_file = './data/FOOD_DES.txt'
+    def initialize(filename)
+      @filename = filename
+    end
 
-      # options = {
-      #   :quote_char => '~',
-      #   :col_sep => '^'
-      # }
+    def parse
+      csv_options = {
+        :quote_char => '~',
+        :col_sep => '^'
+      }
 
-      # num_columns = {}
-      # num_columns = Set.new
-      # CSV.foreach(test_file, options) do |row|
-      #   num_columns << row.count
-      #   puts "=" * 30
-      #   puts row
-      # end
+      @set_column_numbers = Set.new
+      active_records = []
+      CSV.foreach(@filename, csv_options) do |row|
+        @set_column_numbers << row.count
+        active_records << active_record_from_row(row)
+      end
+      results_valid? ? active_records : []
+    end
 
-      # puts "=" * 30
-
-      # puts "number of columns:"
-      # puts num_columns.to_a
+  private
+    def results_valid?
+      @set_column_numbers.count == 1
+    end
+    def active_record_from_row row
+      #todo
+      row
     end
   end
 end
