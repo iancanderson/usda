@@ -1,0 +1,51 @@
+- file_name: FOOD_DES.txt
+  model_name: Food
+  fields:
+  - field_identifier: NDB_No
+    field_name: ndb_no
+    type: A5*
+    can_be_null: false
+  - field_identifier: FdGrp_Cd
+    field_name: food_group_code
+    type: A4
+    can_be_null: false
+  - field_identifier: Long_Desc
+    field_name: long_description
+    type: A200
+    can_be_null: false
+  - field_identifier: Shrt_Desc
+    field_name: short_description
+    type: A60
+    can_be_null: false
+  - field_identifier: ComName
+    field_name: common_name
+    type: A100
+  - field_identifier: ManufacName
+    field_name: manufacturer
+    type: A65
+  - field_identifier: Survey
+    field_name: used_in_fndds_survey
+    type: boolean
+  - field_identifier: Ref_desc
+    field_name: refuse_description
+    type: A135
+  - field_identifier: Refuse
+    field_name: refuge_percentage
+    type: N2
+  - field_identifier: SciName
+    field_name: scientific_name
+    type: A65
+  - field_identifier: N_Factor
+    field_name: n_factor
+    type: N4.2
+  - field_identifier: Pro_Factor
+    field_name: protein_factor
+    type: N4.2
+  - field_identifier: Fat_Factor
+    field_name: fat_factor
+    type: N4.2
+  - field_identifier: CHO_Factor
+    field_name: cho_factor
+    type: N4.2
+
+
